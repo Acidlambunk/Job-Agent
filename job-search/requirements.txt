@@ -1,0 +1,5 @@
+requests
+fastapi
+uvicorn
+python-dotenv
+google-generativeai>=0.7.0
