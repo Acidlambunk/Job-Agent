@@ -1,3 +1,5 @@
 /test/.env
 /keyword-ranking/.env
 /job-agentic-app/.env
+/cover-letter-generator/.env
+/job-search/.env
